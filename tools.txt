@@ -1,0 +1,3 @@
+"测试IDE"
+
+https://nand2tetris.github.io/web-ide/chip#accept
